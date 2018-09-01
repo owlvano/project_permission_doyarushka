@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_project_permission_doyarushka_project_permission_doyarushka,project_permission_doyarushka.project_permission_doyarushka,model_project_permission_doyarushka_project_permission_doyarushka,,1,0,0,0
