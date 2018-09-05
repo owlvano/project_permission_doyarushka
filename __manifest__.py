@@ -5,7 +5,7 @@
     'summary': """
         Access rights and permissions mod for the Project module
         """,
-        
+
     'author': "Ivan Sova",
 
     # Categories can be used to filter modules in modules listing
@@ -19,6 +19,8 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
+        'security/ir.model.access.csv',
+        'security/project_security.xml',
+        'views/project_views.xml',
     ],
 }
